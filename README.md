@@ -2,7 +2,7 @@
 
 A React component library for monitoring and displaying system health status. Features include customizable health checks, retry logic, response time monitoring, and an accessible UI with developer tools. Built with TypeScript and styled-components.
 
-![React Health Checker](./src/public/react-health-checker.png)
+![React Health Checker](./public/react-health-checker.png)
 
 ## Installation
 
