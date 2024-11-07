@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+.husky
+react-health-checker.*
+
+# Testing
+/coverage
+.nyc_output
+
+# Production
+/build
+/dist
+
+
+# Editor directories and files
+.idea/
+.vscode/
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
